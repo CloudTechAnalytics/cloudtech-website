@@ -18,7 +18,7 @@ if (contactForm) {
 // Contact action buttons: WhatsApp and Email
 const whatsappBtn = document.getElementById('whatsappSendBtn');
 const emailBtn = document.getElementById('emailSendBtn');
-const WA_NUMBER = '2348133860143'; // change to your target number in international format without '+'
+const WA_NUMBER = '2349115591877'; // change to your target number in international format without '+'
 const CONTACT_EMAIL = 'cloudtechanalytics.consultant@gmail.com';
 
 function gatherContactData(){
@@ -237,4 +237,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // initialize
   showImage(0);
+
 })();

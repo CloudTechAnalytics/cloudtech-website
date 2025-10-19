@@ -237,5 +237,4 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // initialize
   showImage(0);
-
 })();
